@@ -19,3 +19,4 @@ taskA triggers three parallel paths:
 - Apache Airflow
 - Python
 - Bash scripting
+<img width="1134" height="549" alt="Screen Shot 2026-01-04 at 10 30 37 PM" src="https://github.com/user-attachments/assets/42355c33-4584-4d87-99aa-935c37ec9ef6" />
